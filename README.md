@@ -34,4 +34,12 @@ Using the input data in multiple epochs help, in general, fit the model better.
 Large learning rate --> the model may not converge at a minima   
 Small learning rate --> The training may be slow.
 
+### Momentum
+How to overcome local minima?  
+The momentum will push away from the local minima and lead to the global minima  
+Beta is the momentum and the value is between 0 and 1. Momentum is used to calculate the step based on previous steps.
+The step(n) = step(n) + beta*step(n-1) + beta^2 * step(n-2) + beta^3 * step(n-3) + ...
+
+
+
 
