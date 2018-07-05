@@ -25,7 +25,13 @@ Lambda can be chosen
 A probablity for each node get dropped in a particular epoch. This method is very common and useful.
 
 ### Local Minima
+To avoid local minima one method is to start at random points and there would be chances of getting to a global minima or a good local minima.
 
+### Batch vs Stochastic Gradient Descent
+Using the input data in multiple epochs help, in general, fit the model better.
 
+### Learning Rate Decay
+Large learning rate --> the model may not converge at a minima   
+Small learning rate --> The training may be slow.
 
 
