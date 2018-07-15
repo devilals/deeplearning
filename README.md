@@ -3,6 +3,13 @@ Projects from Deep Learning Nanodegree on Udacity
 
 The first week was an overview and for appreciating the algorithms there is reference to the style transfer algorithm. I tried the pre-trained algorithm and here are some results.
 
+# Anaconda and Environment Setup
+
+If you are seeing the following "conda command not found" and are using ZShell, you have to do the following:
+
+Add export PATH="/Users/username/anaconda/bin:$PATH" to your .zsh_config file.
+
+
 # Training the Neural Net
 
 ### Overfitting and Underfitting
