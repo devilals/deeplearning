@@ -7,5 +7,5 @@ Q5. What is unsupervised learning? Provide at least three examples of algorithms
 Q6. What is Linear Regression?
 Q7. If one is getting very high accuracy say 99.99%. What would you suspect in order to ascertain everything is right?
 A: Example: 5 or not 5 
-Q8. 
+Q8. What is ensembling?
 
