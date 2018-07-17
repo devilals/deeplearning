@@ -1,0 +1,11 @@
+Q1. How do you deal/pre-process hour of the day in bicycle sharing problem?
+Q2. What is Bias and Variance? How to deal with high bias and high variance?
+Q3. What is overfitting and underfitting? How to deal with overfitting and underfitting?
+Q4. What is supervised learning? Provide at least three examples of algorithms of supervised learning. 
+A: LR, NN, Decision Tree and SVM
+Q5. What is unsupervised learning? Provide at least three examples of algorithms of unsupervised learning. 
+Q6. What is Linear Regression?
+Q7. If one is getting very high accuracy say 99.99%. What would you suspect in order to ascertain everything is right?
+A: Example: 5 or not 5 
+Q8. 
+
