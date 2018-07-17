@@ -9,3 +9,15 @@ Q7. If one is getting very high accuracy say 99.99%. What would you suspect in o
 A: Example: 5 or not 5 
 Q8. What is ensembling?
 
+
+
+Interview topics to be covered:
+------------------------------
+a) Machine Learning and Deep Learning basics 
+b) SQL
+c) Spark
+d) Data Structure and Algorithms questions (cracking the coding interview)
+e) Desing Problems - 
+f) Books: Programming Pearls by Jon Bentley and The C programming Language by KnR
+g) ML book: Hands-on Machine Learning - O'Reilly
+h) Java and Object Oriented Programming
