@@ -47,6 +47,7 @@ The momentum will push away from the local minima and lead to the global minima
 Beta is the momentum and the value is between 0 and 1. Momentum is used to calculate the step based on previous steps.
 The step(n) = step(n) + beta*step(n-1) + beta^2 * step(n-2) + beta^3 * step(n-3) + ...
 
-
+## Neural Noise
+Noise in the input data? Clean up the input data or use it in such a way that the noise is less.
 
 
