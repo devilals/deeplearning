@@ -8,4 +8,6 @@ Semisupervised learning is based on partially labeled data. It is mostly a combi
 Google photos tags a person in all photos available and it also tags another person in all those same photos available.
 It groups a person in all photos - meaning it identifies that person A is in photos 1, 2, 4, 7 etc using unsupervised learning and it identifies that person A with his identity (name etc.) with supervised learning. Then all available photos where person A is present will be tagged with his name. This is an example of semisupervised learning.
 
+### What is Reinforcement Learning?
+
 
