@@ -18,7 +18,7 @@ Below are the examples of bad data
 1. Insufficient quantity of training data
 2. Non-representative data - sampling bias
 3. Poor Quality data - errors in measurement, poor quality measurement, missing information (say 5% of the customers didn't enter age)
-4. Irrelevant Features - 
+4. Irrelevant Features (garbage in, garbage out)
 
 ### Bad Algorithm
 #### Overfitting the training data
