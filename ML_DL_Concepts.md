@@ -10,6 +10,20 @@ It groups a person in all photos - meaning it identifies that person A is in pho
 
 ### What is Reinforcement Learning?
 
+### Examples of Supervised and Unsupervised learning
+Supervised Learning:
+1. Linear Regression
+2. Neural Networks/Deep Learning
+3. Decision Trees
+4. Support Vector Machine (SVM)
+5. K-Nearest neighbours
+
+Unsupervised Learning:
+1. Clustering Algorithms - K-means, Hierarchical Clustering Analysis (HCA)
+2. Visualization and Dimensionality reduction - Principal component reduction (PCA), ...
+3. Association rule learning
+
+
 ## What are the challenges in Machine Learning
 Mainly there are two challenges - bad algorithm and bad data
 ### Bad Data
