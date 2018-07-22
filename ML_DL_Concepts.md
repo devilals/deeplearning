@@ -35,4 +35,14 @@ This happens when the model is too complex relative to the amount and noiseness 
 
 
 
+## Trarining, Validation and Test set data
+After the model is trained it has to be tested on new data to figure out how the model behaves on the new data.
+For this purpose a subset of total data set (usually 20-30% of the total data) is kept aside for test data. This data is for evaluating the model for generalization error or test error.
+
+Validation set: When there is a requirement to tune the hyperparameter and evaluating different models, there is a separate data required to evaluate the different hyperparameter values and then the best one is chosen. For this hyperparameter tuning another set of data is required which is from the training set and is called validation set.
+When testing different models, to avoid wasting of too much data in validation another technique is adopted known as cross-validaiton. 
+In cross-validaiton, the training data is divided into complimentary subsets and different model is trained and validated on different subset of the data. And finally the best model chosen is trained on full training data. 
+Then this best model is tested with test data to know how it generalizes.
+
+
 
