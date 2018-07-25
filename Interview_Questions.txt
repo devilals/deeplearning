@@ -21,3 +21,11 @@ e) Desing Problems -
 f) Books: Programming Pearls by Jon Bentley and The C programming Language by KnR
 g) ML book: Hands-on Machine Learning - O'Reilly
 h) Java and Object Oriented Programming
+
+
+
+TODO:
+1. Blog-1: Machine Learning Interview
+2. Blog-2: Solving Machine Learning Projects
+3. Review and Feedback exercise of the ML course
+4. 
