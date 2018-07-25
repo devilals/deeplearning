@@ -59,4 +59,16 @@ In cross-validaiton, the training data is divided into complimentary subsets and
 Then this best model is tested with test data to know how it generalizes.
 
 
+**In short** the model uses:
+*Training Set* for training the weights
+
+*Validation Set* for every epoch to see how the model is doing. The validation set is not used for backpropagation meaning it does not decide the weights, but only validate the model. So if at some point in training (at some epoch) the validation error starts encreasing, but the training error still is decreasing, then we know that the model is overfitting and we ignore the weights from those epochs.
+
+And another aspect of the validation set usage is for selecting different models (say you selecting the number of hidden layers or neurons for the model)
+
+
+*Test Set* 
+We want a data set which the model has never seen before. And this is the test set which is the model tested against finally.
+
+
 
