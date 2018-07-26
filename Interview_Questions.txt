@@ -8,7 +8,7 @@ Q6. What is Linear Regression?
 Q7. If one is getting very high accuracy say 99.99%. What would you suspect in order to ascertain everything is right?
 A: Example: 5 or not 5 
 Q8. What is ensembling?
-
+Q9. What all CNNs can be used for other than images? 
 
 
 Interview topics to be covered:
