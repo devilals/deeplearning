@@ -28,4 +28,6 @@ TODO:
 1. Blog-1: Machine Learning Interview
 2. Blog-2: Solving Machine Learning Projects
 3. Review and Feedback exercise of the ML course
-4. 
+4. Project Idea: 
+  a) Using MNIST make a digit writing/learning system for kids. Kids draw the digit on the mobile screen and then the app tell whether it   is a correct digit and which digit. Also it can tell how much close the kid is to write that number -- 80% correctly written 8?
+  
