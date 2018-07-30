@@ -1,4 +1,4 @@
-### What is Spark MLlib?
+## What is Spark MLlib?
 MLLib is Apache Spark's scalable library for machine learning. It is available in multiple languages such as Java, Python, R etc.
 
 Before going into details, it is important to note that there are two libraries available one is Spark MLlib and another is Spark ML.
@@ -18,10 +18,11 @@ can train an algorithms.
 3. ML Pipeline - this builds the ML pipeline by connecting multiple transformers and estimators
 4. ML Parameters - a common API for specifying parameters for all transformers and estimators
 
+## Why you should use Spark for machine learning?
+Spark is mainly used to deal with large data set processed on a distributed system. [Spark is 100x faster than Hadoop](https://databricks.com/blog/2014/11/05/spark-officially-sets-a-new-record-in-large-scale-sorting.html) in processing large scale data.
+Nex, Spark has provided basic APIs to deal with large data and the processing is faster. Spark MLlib or Spark ML APIs provide end-to-end machine learning workflow. Hence, Spark ML APIs are very useful in dealing with large data.
 
-
-
-
+### How exactly Spark ML parallelize the ML algorithm or data processing on disstributed system (multiple systems)?
 
 
 
