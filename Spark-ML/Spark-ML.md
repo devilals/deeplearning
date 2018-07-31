@@ -1,3 +1,7 @@
+## What is Spark how is it suitable for Machine Learning
+Spark is 
+
+
 ## What is Spark MLlib?
 MLLib is Apache Spark's scalable library for machine learning. It is available in multiple languages such as Java, Python, R etc.
 
