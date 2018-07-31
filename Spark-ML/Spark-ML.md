@@ -6,7 +6,7 @@ Let's put into points below as the benefits of using Spark:
 1. **Fast cluster computing**
 2. **Multi-stage in-memory processing**
 3. **Data structures** for easy parallelism 
-4. **Easy integration** using different languages including **python**
+4. **Easy integration** using different languages including **python**. It also has full package i.e. all you need 
 
 
 
