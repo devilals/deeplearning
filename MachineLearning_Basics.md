@@ -72,3 +72,10 @@ We want a data set which the model has never seen before. And this is the test s
 
 
 
+
+
+#### References
+* A list of all things to do to start off with ML, DS
+https://montrealartificialintelligence.com/academy/#Montreal-AI-Academy-AI-101
+
+
