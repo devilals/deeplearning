@@ -10,6 +10,11 @@ A: Example: 5 or not 5
 Q8. What is ensembling?
 Q9. What all CNNs can be used for other than images? 
 
+New Questions:
+Q10. Write the equation of sigmoid, softmax and relu, tanh activation functions and find out their derivatives.
+Q11. Given a set of pair (x1, x2) of images, and a label y. y is 1 when the images are duplicate and 0 when the images are not duplicate. Construct a machine learning model for the prediction of the two images are duplicate or not.
+Q12. What is feature vector?
+
 
 Interview topics to be covered:
 ------------------------------
