@@ -75,7 +75,7 @@ We want a data set which the model has never seen before. And this is the test s
 
 In a classification algorithm, say single class classifier, the result can be True Positive, False Positive, True Negative and False Negative. For example, a classifier which classifies given handwritten digit as "5" or "not 5" can produce the result in the four categories mentioned above.
 
-
+![Alt text](images/confusion_matrix.png?raw=true "Confusion Matrix - Precision and Recall")
 
 
 #### References
